@@ -1,11 +1,11 @@
 # Talentdirectory
-This list is a one stop go for sourcing from different Talent-directory.
+This list is a one stop go for sourcing from different Talent-directories.
 
-Have you ever tried to source from open source platforms, Where you can reach out to all those talented candidates who can start the roles immediately ? 
+Have you ever tried to source from open source platforms ? Where you can reach out to all those talented candidates who can start any roles immediately ? 
 
-This is a list of companies that are easy for you to go  and start looking for people who might be a right fit for your role.
+This are the list of companies that are easy to go for and start looking for someone who might be a right fit for your to go ahead.
 
-Please note that it is not encouraged to blindly jump into and start appoaching each and everyone. I made this list because I felt that these talented people in the list requires all attentions from the recruiters across the globe. Every link will redirect you to specific companies directory so spend some time learning about the company and making sure it's a good fit for you before you start approaching them.
+Please note that it is not encouraged to blindly jump into and start appoaching each and everyone. I made this list because I felt that these talented people in the list requires all attentions from us (the recruiters) across the globe. Every link will redirect you to specific companies directory so spend some time learning about the companies and make sure it's a good fit for you before you start approaching them.
 <!-- BEGIN DATA -->
 | Company Name | Notes |
 | --- | --- |
