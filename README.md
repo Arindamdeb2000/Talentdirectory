@@ -1,4 +1,4 @@
-# Talentdirectory
+# Global Talent directories
 <h2 align="left">✪This list is a one stop go for sourcing from different Talent-directories.</h2> 
 
 <br />
