@@ -36,7 +36,17 @@ Please note that it is not encouraged to blindly jump into and start appoaching 
 | [Skyscanner](https://talent.skyscanner.net/?utm_source=twitter&utm_medium=social&utm_campaign=os_EMEA_uk_twitter_other_feed_static_talent-directory_11082020_&utm_content=other&linkId=96769412) |Global Talent Directory|
 | [Coda.io -Intercom](https://coda.io/@michelle/intercoms-talent-directory/talent-directory-2) |Global Talent Directory|
 | [Coda.io - Gojek](https://coda.io/@gojektalentdirectory/alumni-directory) |APJ Countries - Mainly |
-
+| [The Appraisal Lane](https://www.theappraisallane.com/talent) | Mainly Uruguay & Americas  |
+| [Apttus](https://docs.google.com/spreadsheets/d/1V5eofmdw7vtlD3_BiOTLZfpmGnnoF8xPTrPVQN3Q-pY/edit#gid=1074490769) |  Americas & Europe  |
+| [Atrium](https://docs.google.com/spreadsheets/d/1eCCuNPHB5fybtclUSD2G-n1HtrMOifjW3wKADPfAC4Y/edit#gid=908246692) |  Americas |
+| [Blueground](https://docs.google.com/spreadsheets/d/1P8KKuKCg7aUNRKhs_pyJiJFauTbiT2rOPgrUxBUP8Uo/edit#gid=0) |  Americas |
+| [Brandless](https://docs.google.com/spreadsheets/d/1LOm8ZXy36ZNgOgPthgiuHmPxZKDkaM9WeS2LnFGiCis/edit#gid=0) |  Americas |
+| [Coda.io - Brex](https://coda.io/@brex-people/alumni) | Americas |
+| [Grailed](https://docs.google.com/spreadsheets/d/1a0p2xPhvt4KIvYT0r6-sGX0f-yib93CHd2Rt3OpLwlE/edit?fbclid=IwAR1BhAcRXdrcA3M5lu_Q1ZDcZDotolqUWmhwC2e1zjVJLG4_LzeCdsGHmqM#gid=0) |  Americas |
+| [Greenhouse](https://docs.google.com/spreadsheets/d/19rYm0u-OY7l8uO7TlywOrDaXRnpAD9VeGkVQa8nZEXc/edit?fbclid=IwAR1LiUEGIcNvX86UDrM1BzklXyf1C832_OjwlVTT-hK0Yj_elvTJorc-cEQ#gid=0) |  Americas |
+| [Hubspot](https://docs.google.com/spreadsheets/d/1VLZqJg18KodAQhPIPK0NjtWxr7uloGncNDdbt3wi5Xw/htmlview) |  Americas |
+| [Coda.io - Juul labs](https://coda.io/@juul/juul-alumni-list) | Americas |
+| [Kapten_](https://talents.kapten.com) |EMEA|✪ |
 
 <br />
 <p align="left">Connect to me on 🔗:
