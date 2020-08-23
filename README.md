@@ -2,7 +2,7 @@
 <h2 align="centre">✪ This list is a one stop go for sourcing from different talent-directories globally.</h2> 
 
 <br />
-<p align="left">Connect to me 🔗:
+<p align="left">Connect to me on 🔗:
 <a href="https://twitter.com/Arindamdeb3000" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Arindamdeb2000" height="20" width="20" /></a>
 <a href="https://linkedin.com/in/arindamdeb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Arindamdeb2000" height="20" width="20" /></a>
 <a href="https://fb.com/Arindamdeb3000" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Arindamdeb2000" height="20" width="20" /></a>
