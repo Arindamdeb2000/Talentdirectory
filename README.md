@@ -1,6 +1,14 @@
 # Talentdirectory
 <h2 align="left">✪This list is a one stop go for sourcing from different Talent-directories.</h2> 
 
+<br />
+<p align="left">Social Media 🔗:
+<a href="https://twitter.com/Arindamdeb3000" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Arindamdeb2000" height="20" width="20" /></a>
+<a href="https://linkedin.com/in/arindamdeb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Arindamdeb2000" height="20" width="20" /></a>
+<a href="https://fb.com/Arindamdeb3000" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Arindamdeb2000" height="20" width="20" /></a>
+<a href="https://instagram.com/Arindamdeb3000" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Arindamdeb2000" height="20" width="20" /></a>
+</p>
+
 Have you ever tried to source from open source platforms ? Where you can reach out to all those talented candidates who can start any roles immediately ? 
 
 This are the list of companies that are easy to go for and start looking for someone who might be a right fit for your to go ahead.
