@@ -32,12 +32,12 @@ Please note that it is not encouraged to blindly jump into and start appoaching 
 | [Open Talent Directory](https://opentalentdirectory.com) |Only India |
 | [Collinson Group](https://collinsongroup.teamtailor.com/pages/talent-directory-58a0cab5-e80e-4a2f-8c92-d2072a2b50b7) |Global Talent Directory |
 | [Logieq](https://www.logieq.com/talent-directory) |Interns - Australia|
-| [Monzo](https://talent.monzo.com) |UK|
+| ✪ [Monzo](https://talent.monzo.com) |UK|
 | [Skyscanner](https://talent.skyscanner.net/?utm_source=twitter&utm_medium=social&utm_campaign=os_EMEA_uk_twitter_other_feed_static_talent-directory_11082020_&utm_content=other&linkId=96769412) |Global Talent Directory|
 | [Coda.io -Intercom](https://coda.io/@michelle/intercoms-talent-directory/talent-directory-2) |Global Talent Directory|
 | [Coda.io - Gojek](https://coda.io/@gojektalentdirectory/alumni-directory) |APJ Countries - Mainly |
 | [The Appraisal Lane](https://www.theappraisallane.com/talent) | Mainly Uruguay & Americas  |
-| [Apttus](https://docs.google.com/spreadsheets/d/1V5eofmdw7vtlD3_BiOTLZfpmGnnoF8xPTrPVQN3Q-pY/edit#gid=1074490769) |  Americas & Europe  |
+| ✪ [Apttus](https://docs.google.com/spreadsheets/d/1V5eofmdw7vtlD3_BiOTLZfpmGnnoF8xPTrPVQN3Q-pY/edit#gid=1074490769) |  Americas & Europe  |
 | [Atrium](https://docs.google.com/spreadsheets/d/1eCCuNPHB5fybtclUSD2G-n1HtrMOifjW3wKADPfAC4Y/edit#gid=908246692) |  Americas |
 | [Blueground](https://docs.google.com/spreadsheets/d/1P8KKuKCg7aUNRKhs_pyJiJFauTbiT2rOPgrUxBUP8Uo/edit#gid=0) |  Americas |
 | [Brandless](https://docs.google.com/spreadsheets/d/1LOm8ZXy36ZNgOgPthgiuHmPxZKDkaM9WeS2LnFGiCis/edit#gid=0) |  Americas |
@@ -46,7 +46,12 @@ Please note that it is not encouraged to blindly jump into and start appoaching 
 | [Greenhouse](https://docs.google.com/spreadsheets/d/19rYm0u-OY7l8uO7TlywOrDaXRnpAD9VeGkVQa8nZEXc/edit?fbclid=IwAR1LiUEGIcNvX86UDrM1BzklXyf1C832_OjwlVTT-hK0Yj_elvTJorc-cEQ#gid=0) |  Americas |
 | [Hubspot](https://docs.google.com/spreadsheets/d/1VLZqJg18KodAQhPIPK0NjtWxr7uloGncNDdbt3wi5Xw/htmlview) |  Americas |
 | [Coda.io - Juul labs](https://coda.io/@juul/juul-alumni-list) | Americas |
-| [Kapten_](https://talents.kapten.com) |EMEA|✪ |
+| ✪ [Kapten_](https://talents.kapten.com) |EMEA|
+| [LinkedIn](https://www.linkedin.com/company/linkedin/recent-alumni/?start=0) |Global Talent Directory  |
+| [Lyft](https://docs.google.com/spreadsheets/d/1k3IW_qrwW02widDcfdXIL0PHt5pwN-IaQkUMYIhKpWU/htmlview#) |  Americas |
+| [PDX Starup Community](https://docs.google.com/spreadsheets/d/1tWXVCPIAmW8NTaslA6zUivX7ph1OV7lq8fla1nLfC9U/edit#gid=853911755) | Global Talent Directory  |
+| ✪ [Samsara](https://www.samsara.com/alumni/) |Americas & UK|
+
 
 <br />
 <p align="left">Connect to me on 🔗:
