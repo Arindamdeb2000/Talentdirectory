@@ -1,7 +1,7 @@
 # Global talent directories
 <h2 align="centre">✪ This list is a one stop go for sourcing from different talent-directories globally.</h2> 
 
-<img src="https://i.imgur.com/8EkRr3h.gif?noredirect" align="centre" height="undefined" width="1000" />
+<img src="https://i.imgur.com/8EkRr3h.gif?noredirect" align="centre" height="500" width="1000" />
 </div>
 
 Have you ever tried to source from open source platforms ? Where you can reach out to all those talented candidates who can start any roles immediately ? 
