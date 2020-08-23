@@ -18,6 +18,7 @@ Please note that it is not encouraged to blindly jump into and start appoaching 
 | Company Name | Notes |
 | --- | --- |
 | [AirBnb](https://www.airbnb.co.in/d/talent?function=&location=&employmentType=ft&uuid=&relocation=&remote=&page=1) | Global Talent Directory |
+| [Coda.io - AirBnb](https://coda.io/@kenny/airbnb-alumni-list) | Global Talent Directory |
 | [Zomato](https://www.zomato.com/alumni-talent-directory) | India Focused|
 | [Mozilla](https://talentdirectory.mozilla.org/?fbclid=IwAR1KVybUD5swQskLelQ-_5hGaBgxJOBGVUzM44s33NgEU6Fzh7BKv8Lwu4E) | Global Talent Directory|
 | [Agoda](https://sites.google.com/view/agodatalentdirectory/) | Global Talent Directory|
