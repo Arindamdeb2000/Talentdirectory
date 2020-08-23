@@ -1,5 +1,5 @@
 # Talentdirectory
-This list is a one stop go for sourcing from different Talent-directories.
+<h2 align="left">✪This list is a one stop go for sourcing from different Talent-directories.</h2> 
 
 Have you ever tried to source from open source platforms ? Where you can reach out to all those talented candidates who can start any roles immediately ? 
 
