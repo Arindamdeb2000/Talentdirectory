@@ -40,3 +40,5 @@ Please note that it is not encouraged to blindly jump into and start appoaching 
 | [Logieq](https://www.logieq.com/talent-directory) |Interns - Australia|
 | [Monzo](https://talent.monzo.com) |UK|
 | [Skyscanner](https://talent.skyscanner.net/?utm_source=twitter&utm_medium=social&utm_campaign=os_EMEA_uk_twitter_other_feed_static_talent-directory_11082020_&utm_content=other&linkId=96769412) |Global Talent Directory|
+| [Coda.io -Intercom](https://coda.io/@michelle/intercoms-talent-directory/talent-directory-2) |Global Talent Directory|
+| [Coda.io - Gojek](https://coda.io/@gojektalentdirectory/alumni-directory) |APJ Countries - Mainly |
