@@ -1,13 +1,7 @@
 # Global talent directories
 <h2 align="centre">✪ This list is a one stop go for sourcing from different talent-directories globally.</h2> 
 
-<br />
-<p align="left">Connect to me on 🔗:
-<a href="https://twitter.com/Arindamdeb3000" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Arindamdeb2000" height="20" width="20" /></a>
-<a href="https://linkedin.com/in/arindamdeb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Arindamdeb2000" height="20" width="20" /></a>
-<a href="https://fb.com/Arindamdeb3000" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Arindamdeb2000" height="20" width="20" /></a>
-<a href="https://instagram.com/Arindamdeb3000" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Arindamdeb2000" height="20" width="20" /></a>
-</p>
+
 
 Have you ever tried to source from open source platforms ? Where you can reach out to all those talented candidates who can start any roles immediately ? 
 
@@ -42,3 +36,12 @@ Please note that it is not encouraged to blindly jump into and start appoaching 
 | [Skyscanner](https://talent.skyscanner.net/?utm_source=twitter&utm_medium=social&utm_campaign=os_EMEA_uk_twitter_other_feed_static_talent-directory_11082020_&utm_content=other&linkId=96769412) |Global Talent Directory|
 | [Coda.io -Intercom](https://coda.io/@michelle/intercoms-talent-directory/talent-directory-2) |Global Talent Directory|
 | [Coda.io - Gojek](https://coda.io/@gojektalentdirectory/alumni-directory) |APJ Countries - Mainly |
+
+
+<br />
+<p align="left">Connect to me on 🔗:
+<a href="https://twitter.com/Arindamdeb3000" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Arindamdeb2000" height="20" width="20" /></a>
+<a href="https://linkedin.com/in/arindamdeb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Arindamdeb2000" height="20" width="20" /></a>
+<a href="https://fb.com/Arindamdeb3000" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Arindamdeb2000" height="20" width="20" /></a>
+<a href="https://instagram.com/Arindamdeb3000" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Arindamdeb2000" height="20" width="20" /></a>
+</p>
