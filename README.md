@@ -51,6 +51,10 @@ Please note that it is not encouraged to blindly jump into and start appoaching 
 | [Lyft](https://docs.google.com/spreadsheets/d/1k3IW_qrwW02widDcfdXIL0PHt5pwN-IaQkUMYIhKpWU/htmlview#) |  Americas |
 | [PDX Starup Community](https://docs.google.com/spreadsheets/d/1tWXVCPIAmW8NTaslA6zUivX7ph1OV7lq8fla1nLfC9U/edit#gid=853911755) | Global Talent Directory  |
 | ✪ [Samsara](https://www.samsara.com/alumni/) |Americas & UK|
+| [Sorabel](https://airtable.com/shrosFWE67oLVFoOs/tblA1SLHZlXJmbFix) |Indonesia|
+| [Tally](https://docs.google.com/spreadsheets/d/13uA1p1YdVI0Iuk2BQlA-vSFvht4dUTetipyP1Nt-hjQ/edit#gid=0) |Americas|
+| [The Helplist - 3346 Directoru list](https://airtable.com/shrtUXqWvxHF9HUkj/tblu64pkqYbWUFKxA?fbclid=IwAR33TsLlQF2PHlZJ9iGYeu2Vz9rxLdPmBP_pDq1aFVMp0cX_xqlQHNWXsrg) |Americas & Canada|
+| [Tripadvisor](https://sites.google.com/view/tripadvisoremployer) |Americas & SEA|
 
 
 <br />
