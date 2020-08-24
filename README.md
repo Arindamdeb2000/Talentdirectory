@@ -1,14 +1,16 @@
 # Global talent directories
 <h2 align="centre">✪ This list is a one stop go for sourcing from different talent-directories globally.</h2> 
 
-<img src="https://i.imgur.com/8EkRr3h.gif?noredirect" align="centre" height="700" width="1000" />
+<img src="https://ca-times.brightspotcdn.com/dims4/default/8c6e9ab/2147483647/strip/true/crop/2010x1340+0+0/resize/840x560!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F12%2F30%2F28a014dc425ab8c553f06b554a16%2Fla-et-env-pandemic-tv-20200604-web-lead-gif.gif" align="centre" height="700" width="1000" />
 </div>
 
-Have you ever tried to source from open source platforms ? Where you can reach out to all those talented candidates who can start any roles immediately ? 
+The lockdown aimed at checkmating the COVID-19 pandemic is leading to huge job losses, pay cuts, and will see freezing of hiring throughout 2020. This will add to the already distressed employment story.Here are the list of those companies,who came up with there talent directories- Where you can reach out to all those ‘incredible people’ who have equally contributed to their growth ? 
 
-This are the list of companies that are easy to go for and start looking for someone who might be a right fit for your to go ahead.
+Please note that, it is not encouraged to blindly jump into it and start appoaching each and everyone on the list. 
 
-Please note that it is not encouraged to blindly jump into and start appoaching each and everyone. I made this list because I felt that these talented people in the list requires all attentions from us (the recruiters) across the globe. Every link will redirect you to specific companies directory so spend some time learning about the companies and make sure it's a good fit for you before you start approaching them.
+I made this "one stop directory" because I felt that these talented people in the list requires all attentions of yours (the recruiters) across the globe. 
+Every link in the list will redirect you to specific companies directory,so spend some time learning about the companies and make sure it's a good fit for you before you start approaching them.
+
 <!-- BEGIN DATA -->
 S.No| Company Name | Notes |
 --| ------------- | --- |
@@ -65,3 +67,7 @@ S.No| Company Name | Notes |
 <a href="https://fb.com/Arindamdeb3000" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Arindamdeb2000" height="20" width="20" /></a>
 <a href="https://instagram.com/Arindamdeb3000" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Arindamdeb2000" height="20" width="20" /></a>
 </p>
+
+## I really like complements, so feel free to give me a shoutout - if you are using this repository.😉
+
+If you want me to make further contribution to this list, Email me at Arindamdeb3000@gmail.com. 
