@@ -68,6 +68,6 @@ S.No| Company Name | Notes |
 <a href="https://instagram.com/Arindamdeb3000" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Arindamdeb2000" height="20" width="20" /></a>
 </p>
 
-## I really like complements, so feel free to give me a shoutout - if you are using this repository.😉
+## I really like complements, so feel free to give me a shoutout - if you are using this repo.😉
 
 If you want to make further contribution to this list, Email me at Arindamdeb3000@gmail.com. 
