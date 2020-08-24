@@ -11,7 +11,7 @@ This are the list of companies that are easy to go for and start looking for som
 Please note that it is not encouraged to blindly jump into and start appoaching each and everyone. I made this list because I felt that these talented people in the list requires all attentions from us (the recruiters) across the globe. Every link will redirect you to specific companies directory so spend some time learning about the companies and make sure it's a good fit for you before you start approaching them.
 <!-- BEGIN DATA -->
 S.No| Company Name | Notes |
---| -------- | --- |
+--| ------------- | --- |
 1| [AirBnb](https://www.airbnb.co.in/d/talent?function=&location=&employmentType=ft&uuid=&relocation=&remote=&page=1) | Global Talent Directory |
 2| [Coda.io - ABnb Alumni List](https://coda.io/@kenny/airbnb-alumni-list) | Global Talent Directory |
 3| [Zomato](https://www.zomato.com/alumni-talent-directory) | India Focused|
