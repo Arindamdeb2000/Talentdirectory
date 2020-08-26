@@ -1,5 +1,5 @@
 # Global Talent Directories
-<h2 align="centre">✪ This list is a one stop go for sourcing from different talent-directories globally.</h2> 
+<h2 align="centre">✪ This list is a one stop go for sourcing from different global talent-directories.</h2> 
 
 <img src="https://ca-times.brightspotcdn.com/dims4/default/8c6e9ab/2147483647/strip/true/crop/2010x1340+0+0/resize/840x560!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F12%2F30%2F28a014dc425ab8c553f06b554a16%2Fla-et-env-pandemic-tv-20200604-web-lead-gif.gif" align="centre" height="700" width="1000" />
 </div>
