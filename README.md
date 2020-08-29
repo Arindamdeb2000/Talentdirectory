@@ -58,6 +58,7 @@ S.No| Company Name | Notes |
 42| [Tally](https://docs.google.com/spreadsheets/d/13uA1p1YdVI0Iuk2BQlA-vSFvht4dUTetipyP1Nt-hjQ/edit#gid=0) |Americas|
 43| [The Helplist - 3346 Directoru list](https://airtable.com/shrtUXqWvxHF9HUkj/tblu64pkqYbWUFKxA?fbclid=IwAR33TsLlQF2PHlZJ9iGYeu2Vz9rxLdPmBP_pDq1aFVMp0cX_xqlQHNWXsrg) |Americas & Canada|
 44| [Tripadvisor](https://sites.google.com/view/tripadvisoremployer) |Americas & SEA|
+45 |[Job Board](https://alumni-board.netlify.app) | Global Talent Directory |
 
 ## Created by Arindam Deb
 <br />
