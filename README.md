@@ -4,7 +4,7 @@
 <img src="https://ca-times.brightspotcdn.com/dims4/default/8c6e9ab/2147483647/strip/true/crop/2010x1340+0+0/resize/840x560!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F12%2F30%2F28a014dc425ab8c553f06b554a16%2Fla-et-env-pandemic-tv-20200604-web-lead-gif.gif" align="centre" height="700" width="1000" />
 </div>
 
-The lockdown aimed at checkmating the COVID-19 pandemic is leading to huge job losses, pay cuts, and will see freezing of hiring throughout 2020. This will add to the already distressed employment story.Here are the list of those companies,who came up with there talent directories- Where you can reach out to all those ‘incredible people’ who have equally contributed to their growth ? 
+The lockdown aimed at checkmating the COVID-19 pandemic is leading to huge job losses, pay cuts, and will see freezing of hiring throughout 2020. This will add to the already distressed employment story.Here are the list of those companies,who came up with there talent directories- Where you can reach out to all those ‘incredible people’ who have equally contributed to their growth.
 
 Please note that, it is not encouraged to blindly jump into it and start appoaching each and everyone on the list. 
 
