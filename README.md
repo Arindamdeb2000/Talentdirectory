@@ -58,7 +58,7 @@ S.No| Company Name | Notes |
 42| [Tally](https://docs.google.com/spreadsheets/d/13uA1p1YdVI0Iuk2BQlA-vSFvht4dUTetipyP1Nt-hjQ/edit#gid=0) |Americas|
 43| [The Helplist - 3346 Directoru list](https://airtable.com/shrtUXqWvxHF9HUkj/tblu64pkqYbWUFKxAfbclid=IwAR33TsLlQF2PHlZJ9iGYeu2Vz9rxLdPmBP_pDq1aFVMp0cX_xqlQHNWXsrg) |Americas & Canada|
 44| [Tripadvisor](https://sites.google.com/view/tripadvisoremployer) |Americas & SEA|
-45|[Job Board](https://alumni-board.netlify.app) | Global Talent Directory |
+45|[Job Board](https://alumni-board.netlify.app) | [Global Talent Directory](https://docs.google.com/spreadsheets/d/1sEQlaAVr4H7H2-pyT7CTWT6bgW3CbzPQFT5L7fuo-l0/edit?usp=sharing) |
 46|[Sprinklr](https://script.google.com/macros/s/AKfycbycGK_GyPdNJ6_67JhLwiXgc9E8DFkNmR-Why0Vr10nQRAhfCWy/exec) | Americas,UK & ME  |
 
 ## Created by Arindam Deb
